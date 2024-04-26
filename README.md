@@ -13,4 +13,4 @@ JOGABILIDADE
 
 COMO JOGAR
 
-Para jogar, basta entrar neste link e se divertir pelo próprio navegador: https://nicula11.itch.io/faroeste-tempo-dos-astecas
+Para jogar, basta entrar neste link e se divertir pelo próprio navegador: nicula11.itch.io/faroeste-tempo-dos-astecas
